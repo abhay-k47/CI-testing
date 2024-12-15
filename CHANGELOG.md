@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/abhay-k47/CI-testing/compare/v1.1.0...v1.2.0) (2024-12-15)
+
+
+### Features
+
+* introduction ([d57508e](https://github.com/abhay-k47/CI-testing/commit/d57508e3893b85a550cfb692b1b86a864adf8416))
+
 ## [1.1.0](https://github.com/abhay-k47/CI-testing/compare/v1.0.0...v1.1.0) (2024-12-15)
 
 
