@@ -1,2 +1,2 @@
-In this repo, we will setup a CI pipeline.
+In this repository, we will setup a CI pipeline.
 We will ideate, implement and conclude in the future sections.
